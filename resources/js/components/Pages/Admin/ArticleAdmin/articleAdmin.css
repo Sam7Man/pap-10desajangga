@@ -1,0 +1,18 @@
+.heading-page{
+    font-weight: 700;
+}
+
+.grid-button-add{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.icon__add__article{
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right: 30px;
+    bottom: 30px;
+    color: white
+}
